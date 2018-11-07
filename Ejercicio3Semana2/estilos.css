@@ -1,0 +1,107 @@
+.bandera {
+  width: 40%;
+  height: 300px;
+  border: 1px solid black;
+  float: left;
+  margin: 10px;
+  z-index: -10;
+
+}
+
+
+.espana {
+  background: red;
+}
+.amarilloespana {
+  width: 39.9%;
+  height: 149px;
+  position: relative;
+  top: 80px;
+  left: 12px;
+  background-color: yellow;
+  /* como sacarle el margen de la derecha? */
+}
+
+
+.dinamarca {
+  background-color: white;
+  clear: both;
+}
+.rojo {
+  background-color: red;
+  z-index: 20;
+  position: relative;
+}
+.cuadrado1 {
+  width: 150px;
+  height: 130px;
+  margin: 10px;
+  top: 174px;
+  margin-right: 0;
+  bottom: 0;
+}
+.rectangulo1 {
+  width: 413px;
+  height: 130px;
+  top: 34px;
+  left: 200px;
+}
+.cuadrado2 {
+  width: 150px;
+  height: 130px;
+  margin: 10px;
+  top: 65px;
+  margin-right: 0;
+  bottom: 0;
+}
+.rectangulo2 {
+  width: 413px;
+  height: 130px;
+  top: -75px;
+  left: 200px;
+}
+
+
+.emiratosarabes {
+  background-color: red;
+  z-index: -20;
+}
+.verde {
+  width: 490px;
+  height: 100px;
+  background-color: green;
+  position: relative;
+  left: 123px;
+  top: 11px;
+}
+.blanco {
+  width: 490px;
+  height: 100px;
+  background-color: white;
+  position: relative;
+  left: 123px;
+  top: 11px;
+}
+.negro {
+  width: 490px;
+  height: 100px;
+  background-color: black;
+  position: relative;
+  left: 123px;
+  top: 11px;
+}
+
+
+.japon {
+  background-color: white;
+  clear: both;
+}
+.circulo {
+  background-color: red;
+  width: 150px;
+  height: 150px;
+  position: relative;
+  top: 110px;
+  left: 240px;
+  border-radius: 200px;
+}

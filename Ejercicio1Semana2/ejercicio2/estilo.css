@@ -1,9 +1,10 @@
-.navbar {
-  width: 100%;
+nav {
+  width: 50%;
   height: 100px;
-  background-color: gray;
+  background-color: silver;
   position: fixed;
-  float: left;
+  margin: 0 25%;
+  top: 0px;
 }
 .box {
   height: 100px;
@@ -16,4 +17,10 @@
 }
 img {
   width: 100%;
+}
+li {
+  display: inline-block;
+  float: left;
+  width: 20%;
+
 }
