@@ -1,0 +1,34 @@
+body {
+  margin: 100px;
+}
+.imagen {
+  border: 1px silver solid;
+  position: absolute;
+  width: 300px;
+  height: 270px;
+}
+.imagen .oferta {
+  background-image: linear-gradient(#42b1e5,#3961a0);
+  height: 40px;
+  width: 250px;
+  font-family: verdana;
+  color: white;
+  font-size: 27px;
+  padding-top: 3px;
+  text-align: center;
+  transform: rotateZ(-35deg);
+  position: relative;
+  left: -40px;
+  top: 30px;
+  /* NO FUNCIONA! QUE PASO? */ overflow: hidden;
+}
+img {
+  position: absolute;
+  left: 30px;
+  top: 10px;
+}
+p {
+  position: absolute;
+  top: 360px;
+  left: 130px;
+}
