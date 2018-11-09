@@ -1,0 +1,23 @@
+.baterias {
+  border: 1px solid silver;
+  width: 35%;
+  margin: 40px;
+}
+.baterias img {
+  width: 300px;
+  height: 300px;
+  position: relative;
+  left: 20px;
+}
+.despacho img {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  top: 250px;
+  left: 270px;
+}
+p {
+  position: absolute;
+  top: 350px;
+  left: 120px;
+}
